@@ -21,24 +21,24 @@
 
 - This mobile app has 2 types of users:
 
-    ->  Normal Users, those who buys the cars
-    ->  Dealers, those who sells cars
+    -  Normal Users, those who buys the cars
+    -  Dealers, those who sells cars
 
 - User Functionality:
 
-    ->  Search for a car using a search engine
-    ->  View car advertisements (by brand, dealer, recommended, searched)
-    ->  Contact dealers via whatsapp or call
-    ->  Like advertisements and save to be viewed later (can also unlike)
-    ->  View news related to automobile extracted from [Autoblog](https://www.autoblog.com/)
-    ->  Edit user's own profile
+    -  Search for a car using a search engine
+    -  View car advertisements (by brand, dealer, recommended, searched)
+    -  Contact dealers via whatsapp or call
+    -  Like advertisements and save to be viewed later (can also unlike)
+    -  View news related to automobile extracted from [Autoblog](https://www.autoblog.com/)
+    -  Edit user's own profile
 
 - Dealer Functionality:
 
-    ->  View own car advertisements
-    ->  Create car advertisements
-    ->  Receive message for liked car advertisements from users
-    ->  Edit user's own profile
+    -  View or delete own car advertisements
+    -  Create car advertisements
+    -  Receive message for liked car advertisements from users
+    -  Edit user's own profile
 
 
 # The Project Timeline
