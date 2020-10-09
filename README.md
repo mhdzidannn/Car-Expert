@@ -1,13 +1,7 @@
+# Car Expert Mobile Application
+<p align = "center">
 ![LOGO](https://github.com/mhdzidannn/Car-Expert/blob/master/android/app/src/main/res/mipmap-hdpi/login.png?raw=true)
-
->>
-```
-UNIVERSITY MALAYA
-WIX 1002
-FUNDAMENTAL OF PROGRAMMING
-SEMESTER 1 
-Session 2018/2019
-```
+</p>
 
 # Team Members
 >>
@@ -16,6 +10,18 @@ Afnan bin Fader (Leader)
 Mohamad Zaidan bin Mohamad Khalil
 
 ```
+
+# App Description
+>>
+```
+•	It's like [carlist.my](https://www.carlist.my/) but the mobile app version
+
+•	We did this app as a freelancing work during the quarantine, as well as a stepping stone for me to learn Flutter
+
+•	Took the two of us from April 2020 until August 2020 to finish the project
+```
+
+
 
 # Explanation of Assigned Task
 >>
