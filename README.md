@@ -12,14 +12,13 @@ Mohamad Zaidan bin Mohamad Khalil
 ```
 
 # App Description
->>
-```
+
 •	It's like [carlist.my](https://www.carlist.my/) but the mobile app version
 
 •	We did this app as a freelancing work during the quarantine, as well as a stepping stone for me to learn Flutter
 
 •	Took the two of us from April 2020 until August 2020 to finish the project
-```
+
 
 
 
