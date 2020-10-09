@@ -73,34 +73,33 @@ In this method it is used to get type of user’s pokemon. In the method, for me
 
 # The challenges faced in accomplishing this project
 
-### Problem 1:
+>>
+```
+Problem 1:
 Difficulty on doing a meeting and discuss with teammate and client due to quarantine.
 
-### Solution:
+Solution:
 Discord as a medium to collaborating and discussing the project.
 
-<br />
 
-### Problem 2:
+Problem 2:
 Having hard time choosing app state management (Redux, Bloc, Provider)
 
-### Solution:
+Solution:
 We spent a lot of time playing and testing around with the different state manager. We decide to choose Provider.
 
-<br />
 
-### Problem 3:
+Problem 3:
 No inspiration for the UIUX design. 
 
-### Solution:
+Solution:
 Hired a friend to do the UIUX for us.
 
-<br />
 
-### Problem 3:
+Problem 3:
 Did not follow the app mockup entirely.
 
-### Explanation:
+Explanation:
 I think it is because we are learning, exploring multitudes of widgets in Flutter.
-
+```
 
