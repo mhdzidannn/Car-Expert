@@ -49,25 +49,25 @@
 
 ### Problem 1:
 Difficulty on doing a meeting and discuss with teammate and client due to quarantine.
-### Solution:
-Discord as a medium to collaborating and discussing the project.
+
+Solution: Discord as a medium to collaborating and discussing the project.
 
 
 ### Problem 2:
 Having hard time choosing app state management (Redux, Bloc, Provider)
-### Solution:
-We spent a lot of time playing and testing around with the different state manager. We decided to choose Provider.
+
+Solution: We spent a lot of time playing and testing around with the different state manager. We decided to choose Provider.
 
 
 ### Problem 3:
 No inspiration for the UIUX design. 
-### Solution:
-Hired a friend to do the UIUX for us.
+
+Solution: Hired a friend to do the UIUX for us.
 
 
 ### Problem 3:
 Did not follow the app mockup entirely.
-### Explanation:
-I think it is because we are learning, exploring multitudes of widgets in Flutter.
+
+Explanation: I think it is because we are learning, exploring multitudes of widgets in Flutter.
 
 
