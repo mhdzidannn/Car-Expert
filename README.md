@@ -11,15 +11,17 @@ Mohamad Zaidan bin Mohamad Khalil
 
 ```
 
-# App Description
+# Project Description
 
-•	It's like [carlist.my](https://www.carlist.my/) but the mobile app version
+->	It's like [carlist.my](https://www.carlist.my/) but the mobile app version
 
-•	We did this app as a freelancing work during the quarantine, as well as a stepping stone for me to learn Flutter
+->	We did this app as a freelancing work during the quarantine, as well as a stepping stone for me to learn Flutter
 
-•	Took the two of us from April 2020 until August 2020 to finish the project
+-	Took the two of us from March 2020 until August 2020 to finish the project
 
+# App Overview
 
+-> This 
 
 
 # Explanation of Assigned Task
@@ -60,28 +62,45 @@ In this method it is used to get type of user’s pokemon. In the method, for me
 # The Project Timeline
 >>
 ```
-2/11 = Formation of group through github.
-17/11 = Task assigned to members given by leader.
-18/11 - 5/12 = Each members proceed with coding their own task.
-6/12 = Compiling of all coding into github.
-7/12 - 8/12 = Combining all codes.
-9/12 - 10/11 = Test run the codes and fixing problems that arise.
-11/12 = Finalization of GUI
-12/12 - 13/12 = Confirming that all codes are running fine and double checking of report.
-14/12 = Submission of assignment.
-21/12 = Presentation of assignment.
-```
-# The problems faced in accomplishing this project
->>
-```
-Problem 1: Difficulty on doing a meeting as everyone is from different college and projects to attend.
-Solution: Discuss on Internet platform (Github and Whatsapp) and meeting only when needed.
-Problem 2: Could not detect an error in the code.
-Solution: Approach and seek help from seniors and friends.
+?/3 = Team Formed 
+?/3 = Create repo for the mobile app and practice using dart
+11/4 = Re-create another repo because we messed up git
+2/5 = Finished login/register module
+10/6 = Finished most pages, presented to client for feedback
+25/7 = Another big push of changes after meetup with client
+5/8 = Project finished and delivered to client
 ```
 
+# The challenges faced in accomplishing this project
 
+### Problem 1:
+Difficulty on doing a meeting and discuss with teammate and client due to quarantine.
 
+### Solution:
+Discord as a medium to collaborating and discussing the project.
 
+<br />
+
+### Problem 2:
+Having hard time choosing app state management (Redux, Bloc, Provider)
+
+### Solution:
+We spent a lot of time playing and testing around with the different state manager. We decide to choose Provider.
+
+<br />
+
+### Problem 3:
+No inspiration for the UIUX design. 
+
+### Solution:
+Hired a friend to do the UIUX for us.
+
+<br />
+
+### Problem 3:
+Did not follow the app mockup entirely.
+
+### Explanation:
+I think it is because we are learning, exploring multitudes of widgets in Flutter.
 
 
