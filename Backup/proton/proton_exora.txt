@@ -1,0 +1,110 @@
+// exora -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Exora',
+      'Variant' : 'Executive 1.6L CVT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT Turbo',
+      'BodyType' : 'MPV',
+      'Dimensions' : {
+        'FeulCapacity' : 55,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1447,
+        'Wheelbase' : 2730,
+        'Height' : 1691,
+        'Length' : 4610,
+        'Width' : 1809,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1561,
+        'PeakPower' : 103,
+        'PeakTorque' : 205,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '205/55 R16 Alloy',
+        'RearTyre' : '205/55 R16 Alloy',
+        'SteeringType' : 'Hydraulic Power Steering',
+        'GroundClearance' : 155, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5000,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 7, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// exora -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Exora',
+      'Variant' : 'Premium 1.6L CVT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT Turbo',
+      'BodyType' : 'MPV',
+      'Dimensions' : {
+        'FeulCapacity' : 55,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1465,
+        'Wheelbase' : 2730,
+        'Height' : 1691,
+        'Length' : 4610,
+        'Width' : 1809,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1561,
+        'PeakPower' : 103,
+        'PeakTorque' : 205,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '205/55 R16 Alloy',
+        'RearTyre' : '205/55 R16 Alloy',
+        'SteeringType' : 'Hydraulic Power Steering',
+        'GroundClearance' : 155, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5000,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 7, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+

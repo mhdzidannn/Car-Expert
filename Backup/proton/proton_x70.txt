@@ -1,0 +1,218 @@
+// x70 -v1
+{
+      'Layout' : '2WDW',
+      'Model' : 'X70',
+      'Variant' : 'Standard',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, TGDi',
+      'BodyType' : 'SUV',
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : null, //default
+        'CurbWeight' : 1660,
+        'Wheelbase' : 2670,
+        'Height' : 1694,
+        'Length' : 4519,
+        'Width' : 1831,
+        'RearTread' : 1557,
+        'FrontTread' : 1562
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Turbocharged Gasoline Direct Injection',
+        'Bore' : 81, //default
+        'CompressionRatio' : 10.6, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1799,
+        'PeakPower' : 135,
+        'PeakTorque' : 285,
+        'Stroke' : 87.3 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut',
+        'RearSuspension' : 'Multi-Link with Stabiliser',
+        'FrontTyre' : '225/65 R17 Alloy',
+        'RearTyre' : '225/65 R17 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 184, //default
+        'PowerRPM' : 5500,
+        'TorqueRPM' : 4400,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// x70 -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'X70',
+      'Variant' : 'Executive',
+      'Year' : '2019', //dont change
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, TGDi',
+      'BodyType' : 'SUV',
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : null, //we'll see what happens
+        'CurbWeight' : 1670,
+        'Wheelbase' : 2670,
+        'Height' : 1694,
+        'Length' : 4519,
+        'Width' : 1831,
+        'RearTread' : 1557,
+        'FrontTread' : 1562
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Turbocharged Gasoline Direct Injection',
+        'Bore' : 81, //default
+        'CompressionRatio' : 10.6, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1799,
+        'PeakPower' : 135,
+        'PeakTorque' : 285,
+        'Stroke' : 87.3 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut',
+        'RearSuspension' : 'Multi-Link with Stabiliser',
+        'FrontTyre' : '225/60 R18 Alloy',
+        'RearTyre' : '225/60 R18 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 184, //default
+        'PowerRPM' : 5500,
+        'TorqueRPM' : 4400,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+    }
+
+// -----------------------------------------------------------------------------//
+
+// x70 -v3
+{
+      'Layout' : 'AWD',
+      'Model' : 'X70',
+      'Variant' : 'Executive',
+      'Year' : '2019', //dont change
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, TGDi',
+      'BodyType' : 'SUV',
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : null, //we'll see what happens
+        'CurbWeight' : 1725,
+        'Wheelbase' : 2670,
+        'Height' : 1694,
+        'Length' : 4519,
+        'Width' : 1831,
+        'RearTread' : 1557,
+        'FrontTread' : 1562
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Turbocharged Gasoline Direct Injection',
+        'Bore' : 81, //default
+        'CompressionRatio' : 10.6, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1799,
+        'PeakPower' : 135,
+        'PeakTorque' : 285,
+        'Stroke' : 87.3 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut',
+        'RearSuspension' : 'Multi-Link with Stabiliser',
+        'FrontTyre' : '225/60 R18 Alloy',
+        'RearTyre' : '225/60 R18 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 184, //default
+        'PowerRPM' : 5500,
+        'TorqueRPM' : 4400,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+    }
+
+
+// -----------------------------------------------------------------------------//
+
+// x70 -v4
+{
+      'Layout' : '2WD',
+      'Model' : 'X70',
+      'Variant' : 'Premium',
+      'Year' : '2019', //dont change
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, TGDi',
+      'BodyType' : 'SUV',
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : null, //we'll see what happens
+        'CurbWeight' : 1695,
+        'Wheelbase' : 2670,
+        'Height' : 1694,
+        'Length' : 4519,
+        'Width' : 1831,
+        'RearTread' : 1557,
+        'FrontTread' : 1562
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Turbocharged Gasoline Direct Injection',
+        'Bore' : 81, //default
+        'CompressionRatio' : 10.6, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1799,
+        'PeakPower' : 135,
+        'PeakTorque' : 285,
+        'Stroke' : 87.3 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut',
+        'RearSuspension' : 'Multi-Link with Stabiliser',
+        'FrontTyre' : '225/55 R19 Alloy',
+        'RearTyre' : '225/55 R19 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 184, //default
+        'PowerRPM' : 5500,
+        'TorqueRPM' : 4400,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+    }

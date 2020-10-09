@@ -1,0 +1,177 @@
+
+// yaris -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Yaris',
+      'Variant' : '1.5G',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders, 16 Valve DOHC, Dual VVT-i',
+      'BodyType' : 'Hatchback',
+      'CarDescription' : '1.5G DOHC Dual VVT-i',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 42,
+        'BootCapacity' : 240, //default
+        'CurbWeight' : 1140,
+        'Wheelbase' : 2685,
+        'Height' : 1475,
+        'Length' : 4145,
+        'Width' : 1730,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1455 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 107,
+        'PeakTorque' : 140,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser',
+        'RearSuspension' : 'Torsion Beam with Stabiliser',
+        'FrontTyre' : '195/50 R16 Alloy',
+        'RearTyre' : '195/50 R16 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 5, 
+        'SeatCapacity' : 5,
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+
+// yaris -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Yaris',
+      'Variant' : '1.5E',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders, 16 Valve DOHC, Dual VVT-i',
+      'BodyType' : 'Hatchback',
+      'CarDescription' : '1.5E DOHC Dual VVT-i',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 42,
+        'BootCapacity' : 240, //default
+        'CurbWeight' : 1115,
+        'Wheelbase' : 2685,
+        'Height' : 1475,
+        'Length' : 4145,
+        'Width' : 1730,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1455 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 107,
+        'PeakTorque' : 140,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser',
+        'RearSuspension' : 'Torsion Beam with Stabiliser',
+        'FrontTyre' : '195/50 R16 Alloy',
+        'RearTyre' : '195/50 R16 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 5, 
+        'SeatCapacity' : 5,
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// yaris -v3
+
+{
+      'Layout' : '2WD',
+      'Model' : 'Yaris',
+      'Variant' : '1.5J',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders, 16 Valve DOHC, Dual VVT-i',
+      'BodyType' : 'Hatchback',
+      'CarDescription' : '1.5J DOHC Dual VVT-i',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 42,
+        'BootCapacity' : 240, //default
+        'CurbWeight' : 1110,
+        'Wheelbase' : 2685,
+        'Height' : 1475,
+        'Length' : 4145,
+        'Width' : 1730,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1455 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 107,
+        'PeakTorque' : 140,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser',
+        'RearSuspension' : 'Torsion Beam with Stabiliser',
+        'FrontTyre' : '185/60 R15 Alloy',
+        'RearTyre' : '185/60 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 5, 
+        'SeatCapacity' : 5,
+        'FrontRim' : 15, //default
+        'RearRim' : 15, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+

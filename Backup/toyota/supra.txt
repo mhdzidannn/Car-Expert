@@ -1,0 +1,58 @@
+// supra -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Supra',
+      'Variant' : 'B58',
+      'Year' : '2019',
+      'EngineDesc' : '6 Cylinders, In-Line, 24 Valve DOHC, Twin Scroll Turbo',
+      'BodyType' : 'Coupe',
+      'CarDescription' : '3.0 B58 DOHC Twin Scroll Turbo',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 52,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1570,
+        'Wheelbase' : 2470,
+        'Height' : 1294,
+        'Length' : 4379,
+        'Width' : 1854,
+        'RearTread' : 1594, //default
+        'FrontTread' : 1589 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Direct Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2998,
+        'PeakPower' : 250,
+        'PeakTorque' : 500,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc with 4-Piston Fixed Caliper',
+        'RearBreak' : 'Ventilated Disc with 1-Piston Floating Caliper',
+        'FrontSuspension' : 'Double Jointed MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Multi-Link with Stabiliser Bar',
+        'FrontTyre' : '255/35 ZR19 Forged Alloy',
+        'RearTyre' : '255/35 ZR19 Forged Alloy',
+        'SteeringType' : 'Parallel Axis Electric Power Steering',
+        'GroundClearance' : 200, //default
+        'HorsePower' : 335, //default
+        'PowerRPM' : 6500,
+        'TorqueRPM' : 4500,
+        'Doors' : 3, 
+        'SeatCapacity' : 2,
+        'FrontRim' : 19, //default
+        'RearRim' : 19, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "932891469979",
+    "firebase_url": "https://car-database-34fe0.firebaseio.com",
+    "project_id": "car-database-34fe0",
+    "storage_bucket": "car-database-34fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932891469979:android:9b41ca7424eba08c46be3e",
+        "android_client_info": {
+          "package_name": "com.baraisolutions.carexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932891469979-nc99up2mduqlh9fskqccj03b042c90ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRo9vH3hE4PERm-u0rglFnXhoeWgqTOd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932891469979-nc99up2mduqlh9fskqccj03b042c90ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932891469979:android:c33564b78866b89a46be3e",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932891469979-nc99up2mduqlh9fskqccj03b042c90ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRo9vH3hE4PERm-u0rglFnXhoeWgqTOd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932891469979-nc99up2mduqlh9fskqccj03b042c90ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

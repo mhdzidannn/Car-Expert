@@ -1,0 +1,68 @@
+  //to import cars into db
+ Future cars() async {
+  try {
+
+  //import cars into db
+    final CollectionReference userCollection = Firestore.instance.collection('Toyota_spec');
+
+    await userCollection.document().setData({    
+     
+      'Layout' : '2WD',
+      'Model' : 'Persona',
+      'Variant' : 'Standard MT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT',
+      'BodyType' : 'Sedan',
+      'CarDescription' : '1.6 Standard MT DOHC VVT (Manual)',
+      'Transmission' : 'Manual',  // for manual cars only
+      'Dimensions' : {
+        'FeulCapacity' : 40,
+        'BootCapacity' : 510, //default
+        'CurbWeight' : 1154,
+        'Wheelbase' : 2555,
+        'Height' : 1554,
+        'Length' : 4362,
+        'Width' : 1722,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 81, //default
+        'CompressionRatio' : 10.6, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1597,
+        'PeakPower' : 80,
+        'PeakTorque' : 150,
+        'Stroke' : 67.3 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam',
+        'FrontTyre' : '185/55 R15 Alloy',
+        'RearTyre' : '185/55 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 184, //default
+        'PowerRPM' : 5750,
+        'TorqueRPM' : 4000,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+}
+    );
+
+    return 'import successful';
+  } catch (e){
+    print(e.toString());
+    }
+  } 

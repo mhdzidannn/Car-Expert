@@ -1,0 +1,276 @@
+// iriz -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Iriz',
+      'Variant' : '1.3L Standard CVT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT',
+      'BodyType' : 'Hatchback',
+      'Dimensions' : {
+        'FeulCapacity' : 40,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1154,
+        'Wheelbase' : 2555,
+        'Height' : 1554,
+        'Length' : 3945,
+        'Width' : 1722,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1332,
+        'PeakPower' : 70,
+        'PeakTorque' : 120,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '175/65 R14 Alloy',
+        'RearTyre' : '175/65 R14 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 140, //default
+        'PowerRPM' : 5750,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// iriz -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Iriz',
+      'Variant' : '1.3L Executive CVT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT',
+      'BodyType' : 'Hatchback',
+      'Dimensions' : {
+        'FeulCapacity' : 40,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1171,
+        'Wheelbase' : 2555,
+        'Height' : 1554,
+        'Length' : 3945,
+        'Width' : 1722,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1332,
+        'PeakPower' : 70,
+        'PeakTorque' : 120,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '185/55 R15 Alloy',
+        'RearTyre' : '185/55 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 140, //default
+        'PowerRPM' : 5750,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// iriz -v3
+{
+      'Layout' : '2WD',
+      'Model' : 'Iriz',
+      'Variant' : '1.6L Executive CVT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT',
+      'BodyType' : 'Hatchback',
+      'Dimensions' : {
+        'FeulCapacity' : 40,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1173,
+        'Wheelbase' : 2555,
+        'Height' : 1554,
+        'Length' : 3945,
+        'Width' : 1722,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1597,
+        'PeakPower' : 80,
+        'PeakTorque' : 150,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '185/55 R15 Alloy',
+        'RearTyre' : '185/55 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5750,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// iriz -v4
+{
+      'Layout' : '2WD',
+      'Model' : 'Iriz',
+      'Variant' : '1.6L Premium CVT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT',
+      'BodyType' : 'Hatchback',
+      'Dimensions' : {
+        'FeulCapacity' : 40,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1178,
+        'Wheelbase' : 2555,
+        'Height' : 1554,
+        'Length' : 3945,
+        'Width' : 1722,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1597,
+        'PeakPower' : 80,
+        'PeakTorque' : 150,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '185/55 R15 Alloy',
+        'RearTyre' : '185/55 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5750,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// iriz -v5
+{
+      'Layout' : '2WD',
+      'Model' : 'Iriz',
+      'Variant' : '1.3L Standard MT',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC, VVT',
+      'BodyType' : 'Hatchback',
+      'CarDescription' : '1.3 MT DOHC VVT (Manual)',
+      'Dimensions' : {
+        'FeulCapacity' : 40,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1132,
+        'Wheelbase' : 2555,
+        'Height' : 1554,
+        'Length' : 3945,
+        'Width' : 1722,
+        'RearTread' : 1490, 
+        'FrontTread' : 1490 
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 80.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1332,
+        'PeakPower' : 70,
+        'PeakTorque' : 120,
+        'Stroke' : 90.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Stabiliser Bar',
+        'RearSuspension' : 'Torsion Beam Axle',
+        'FrontTyre' : '175/65 R14 Alloy',
+        'RearTyre' : '175/65 R14 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 140, //default
+        'PowerRPM' : 5750,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//

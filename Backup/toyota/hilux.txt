@@ -1,0 +1,402 @@
+// hilux -v1
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Double Cap 2.8 L-Edition (AT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.8 L-Edition DOHC Intercooler VNT Diesel',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1127.28, //SAME UNTIL LAST
+        'CurbWeight' : 2100,
+        'Wheelbase' : 3085,
+        'Height' : 1815,
+        'Length' : 5330, //same for all
+        'Width' : 1855,
+        'RearTread' : 1540, //default
+        'FrontTread' : 1550 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection',
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2755,
+        'PeakPower' : 130,
+        'PeakTorque' : 450,
+        'Stroke' : 103.6 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '265/60R18, Alloy (L-Edition) & Highway Terrain Tyres',
+        'RearTyre' : '265/60R18, Alloy (L-Edition) & Highway Terrain Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 286, //default
+        'HorsePower' : 200, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2400,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// hilux -v2
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Double Cap 2.8 (AT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.8G DOHC Intercooler VNT Diesel',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1127.28, //SAME UNTIL LAST
+        'CurbWeight' : 2100,
+        'Wheelbase' : 3085,
+        'Height' : 1815,
+        'Length' : 5330, //same for all
+        'Width' : 1855,
+        'RearTread' : 1540, //default
+        'FrontTread' : 1550 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection',
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2755,
+        'PeakPower' : 130,
+        'PeakTorque' : 450,
+        'Stroke' : 103.6 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '265/60R18, Alloy & Highway Terrain Tyres',
+        'RearTyre' : '265/60R18, Alloy & Highway Terrain Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 286, //default
+        'HorsePower' : 200, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2400,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// hilux -v3
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Double Cab 2.4 L-Edition (AT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.4 L-Edition DOHC Intercooler VNT Diesel',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1127.28, //SAME UNTIL LAST
+        'CurbWeight' : 2075,
+        'Wheelbase' : 3085,
+        'Height' : 1815,
+        'Length' : 5330, //same for all
+        'Width' : 1855,
+        'RearTread' : 1540, //SAME UNTIL LAST
+        'FrontTread' : 1550 //SAME UNTIL LAST
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection', //SAME UNTIL LAST
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2393,
+        'PeakPower' : 110,
+        'PeakTorque' : 400,
+        'Stroke' : 90.0 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '265/60R18, Alloy (L-Edition) & Highway Terrain Tyres',
+        'RearTyre' : '265/60R18, Alloy (L-Edition) & Highway Terrain Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 286, //default
+        'HorsePower' : 180, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2000,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 18, //default
+        'RearRim' : 18, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// hilux -v4
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Double Cab 2.4G (AT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.4G DOHC Intercooler VNT Diesel',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1127.28, //SAME UNTIL LAST
+        'CurbWeight' : 2075,
+        'Wheelbase' : 3085,
+        'Height' : 1815,
+        'Length' : 5330, //same for all
+        'Width' : 1855,
+        'RearTread' : 1540, //SAME UNTIL LAST
+        'FrontTread' : 1550 //SAME UNTIL LAST
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection', //SAME UNTIL LAST
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2393,
+        'PeakPower' : 110,
+        'PeakTorque' : 400,
+        'Stroke' : 90.0 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '265/65R17, Alloy & All-Terrain Tyres',
+        'RearTyre' : '265/65R17, Alloy & All-Terrain Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 286, //default
+        'HorsePower' : 180, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2000,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// hilux -v5
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Double Cab 2.4G (MT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.4G DOHC Intercooler VNT Diesel (Manual)',
+      'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1127.28, //SAME UNTIL LAST
+        'CurbWeight' : 2060,
+        'Wheelbase' : 3085,
+        'Height' : 1815,
+        'Length' : 5330, //same for all
+        'Width' : 1855,
+        'RearTread' : 1540, //SAME UNTIL LAST
+        'FrontTread' : 1550 //SAME UNTIL LAST
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection', //SAME UNTIL LAST
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2393,
+        'PeakPower' : 110,
+        'PeakTorque' : 400,
+        'Stroke' : 90.0 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '265/65R17, Alloy & All-Terrain Tyres',
+        'RearTyre' : '265/65R17, Alloy & All-Terrain Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 286, //default
+        'HorsePower' : 180, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2000,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// hilux -v6
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Double Cab 2.4 STD (MT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.4 STD DOHC Intercooler VNT Diesel (Manual)',
+      'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1127.28, //SAME UNTIL LAST
+        'CurbWeight' : 2050,
+        'Wheelbase' : 3085,
+        'Height' : 1815,
+        'Length' : 5330, //same for all
+        'Width' : 1855,
+        'RearTread' : 1540, //SAME UNTIL LAST
+        'FrontTread' : 1550 //SAME UNTIL LAST
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection', //SAME UNTIL LAST
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2393,
+        'PeakPower' : 110,
+        'PeakTorque' : 400,
+        'Stroke' : 90.0 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '265/65R17, Steel (with Wheel Cap) & All-terrain Tyres',
+        'RearTyre' : '265/65R17, Steel (with Wheel Cap) & All-terrain Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 286, //default
+        'HorsePower' : 180, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2000,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// hilux -v7
+{
+      'Layout' : '4WD',
+      'Model' : 'Hilux', 
+      'Variant' : 'Single Cab 2.4 (MT) 4x4',
+      'Year' : '2019',
+      'EngineDesc' : '4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel',
+      'BodyType' : 'SUV',
+      'CarDescription' : '2.4 Single Cab DOHC Intercooler VNT Diesel (Manual)',
+      'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 80,
+        'BootCapacity' : 1750.14, //SAME UNTIL LAST
+        'CurbWeight' : 1955,
+        'Wheelbase' : 3085,
+        'Height' : 1795,
+        'Length' : 5330, //same for all
+        'Width' : 1815,
+        'RearTread' : 1510, //SAME UNTIL LAST
+        'FrontTread' : 1520 //SAME UNTIL LAST
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'Diesel', //same
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Common Rail Direct Injection', //SAME UNTIL LAST
+        'Bore' : 92.0,
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2393,
+        'PeakPower' : 110,
+        'PeakTorque' : 400,
+        'Stroke' : 90.0 
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading-Trailing Drum',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring & Stabiliser',  //hilux dont change
+        'RearSuspension' : 'Leaf Spring, Rigid Axle',   //hilux dont change
+        'FrontTyre' : '205R16C, Steel & Commercial Tyres',
+        'RearTyre' : '205R16C, Steel & Commercial Tyres',
+        'SteeringType' : 'Rack & Pinion with Hydraulic Power Assist',
+        'GroundClearance' : 269, //default
+        'HorsePower' : 180, //default
+        'PowerRPM' : 3400,
+        'TorqueRPM' : 2000,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+

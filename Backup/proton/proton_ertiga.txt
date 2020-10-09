@@ -1,0 +1,170 @@
+// ertiga -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Ertiga',
+      'Variant' : 'Executive MT 1.3L',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders, 16 Valve, DOHC',
+      'BodyType' : 'MPV',
+      'CarDescription' : '1.3 Executive MT DOHC (Manual)',
+      'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1175,
+        'Wheelbase' : 2740,
+        'Height' : 1685,
+        'Length' : 4265,
+        'Width' : 1695,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 73.0, //default
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1373,
+        'PeakPower' : 68,
+        'PeakTorque' : 130,
+        'Stroke' : 82.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading / Trailing Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring',
+        'RearSuspension' : 'Torsion Beam with Coil Spring',
+        'FrontTyre' : '185/65 R15 Alloy',
+        'RearTyre' : '185/65 R15 Alloy',
+        'SteeringType' : 'Rack & Pinion Motion Electric Power Steering',
+        'GroundClearance' : 185, //default
+        'HorsePower' : 140, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 6, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// ertiga -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Ertiga',
+      'Variant' : 'Executive AT 1.3L',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders, 16 Valve, DOHC',
+      'BodyType' : 'MPV',
+      'CarDescription' : '1.3 Executive AT DOHC',
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1185,
+        'Wheelbase' : 2740,
+        'Height' : 1685,
+        'Length' : 4265,
+        'Width' : 1695,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 73.0, //default
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1373,
+        'PeakPower' : 68,
+        'PeakTorque' : 130,
+        'Stroke' : 82.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading / Trailing Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring',
+        'RearSuspension' : 'Torsion Beam with Coil Spring',
+        'FrontTyre' : '185/65 R15 Alloy',
+        'RearTyre' : '185/65 R15 Alloy',
+        'SteeringType' : 'Rack & Pinion Motion Electric Power Steering',
+        'GroundClearance' : 185, //default
+        'HorsePower' : 140, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 6, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// ertiga -v3
+{
+      'Layout' : '2WD',
+      'Model' : 'Ertiga',
+      'Variant' : 'Premium AT 1.3L',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders, 16 Valve, DOHC',
+      'BodyType' : 'MPV',
+      'CarDescription' : '1.3 Premium AT DOHC',
+      'Dimensions' : {
+        'FeulCapacity' : 60,
+        'BootCapacity' : 300, //default
+        'CurbWeight' : 1185,
+        'Wheelbase' : 2740,
+        'Height' : 1685,
+        'Length' : 4265,
+        'Width' : 1695,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 73.0, //default
+        'CompressionRatio' : 11.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1373,
+        'PeakPower' : 68,
+        'PeakTorque' : 130,
+        'Stroke' : 82.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading / Trailing Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring',
+        'RearSuspension' : 'Torsion Beam with Coil Spring',
+        'FrontTyre' : '185/65 R15 Alloy',
+        'RearTyre' : '185/65 R15 Alloy',
+        'SteeringType' : 'Rack & Pinion Motion Electric Power Steering',
+        'GroundClearance' : 185, //default
+        'HorsePower' : 140, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 6, //default
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+

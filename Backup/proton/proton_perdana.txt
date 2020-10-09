@@ -1,0 +1,110 @@
+// perdana -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Perdana',
+      'Variant' : '2.0L',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinder, 16 Valve SOHC',
+      'BodyType' : 'Sedan',
+      'Dimensions' : {
+        'FeulCapacity' : 70,
+        'BootCapacity' : 510, //default
+        'CurbWeight' : 1510,
+        'Wheelbase' : 2800,
+        'Height' : 1475,
+        'Length' : 4999,
+        'Width' : 1845,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'PGM-FI (Programmed Fuel Injection)', //DEFAULT
+        'Bore' : 81.0, //default
+        'CompressionRatio' : 10.6, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1997,
+        'PeakPower' : 115,
+        'PeakTorque' : 189,
+        'Stroke' : 96.9 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring and Stabiliser',
+        'RearSuspension' : 'Independent Multi-link with Coil Spring and Stabiliser',
+        'FrontTyre' : '225/50 R17 Alloy',
+        'RearTyre' : '225/50 R17 Alloy',
+        'SteeringType' : 'Rack & Pinion Hydraulic Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 184, //default
+        'PowerRPM' : 6300,
+        'TorqueRPM' : 4300,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// perdana -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Perdana',
+      'Variant' : '2.4L',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinder, 16 Valve DOHC',
+      'BodyType' : 'Sedan',
+      'Dimensions' : {
+        'FeulCapacity' : 70,
+        'BootCapacity' : 510, //default
+        'CurbWeight' : 1535,
+        'Wheelbase' : 2800,
+        'Height' : 1475,
+        'Length' : 5020,
+        'Width' : 1845,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'PGM-FI (Programmed Fuel Injection)', //DEFAULT
+        'Bore' : 87.0, //default
+        'CompressionRatio' : 10.5, //default
+        'Cylinders' : 4,
+        'EngineCC' : 2354,
+        'PeakPower' : 133,
+        'PeakTorque' : 222,
+        'Stroke' : 99.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'Independent Double Wishbone with Coil Spring and Stabiliser',
+        'RearSuspension' : 'Independent Multi-link with Coil Spring and Stabiliser',
+        'FrontTyre' : '225/50 R17 Alloy',
+        'RearTyre' : '225/50 R17 Alloy',
+        'SteeringType' : 'Rack & Pinion Hydraulic Power Steering',
+        'GroundClearance' : 0, //default
+        'HorsePower' : 190, //default
+        'PowerRPM' : 6500,
+        'TorqueRPM' : 4300,
+        'Doors' : 4, 
+        'SeatCapacity' : 5, //default
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+

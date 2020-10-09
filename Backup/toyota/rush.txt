@@ -1,0 +1,118 @@
+
+// rush -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Rush',
+      'Variant' : '1.5S (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'SUV',
+      'CarDescription' : '1.5S 2NR-VE',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 45,
+        'BootCapacity' : 250, //default
+        'CurbWeight' : 1305,
+        'Wheelbase' : 2685,
+        'Height' : 1705,
+        'Length' : 4435,
+        'Width' : 1695,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1460 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 77,
+        'PeakTorque' : 136,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring and Stabiliser Bar',
+        'RearSuspension' : '5-link with Coil Spring and Lateral Rod',
+        'FrontTyre' : '215/60 R17 Alloy',
+        'RearTyre' : '215/60 R17 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 5, 
+        'SeatCapacity' : 7,
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+
+// rush -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Rush',
+      'Variant' : '1.5G (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'SUV',
+      'CarDescription' : '1.5G 2NR-VE',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 45,
+        'BootCapacity' : 250, //default
+        'CurbWeight' : 1300,
+        'Wheelbase' : 2685,
+        'Height' : 1705,
+        'Length' : 4435,
+        'Width' : 1695,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1460 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 77,
+        'PeakTorque' : 136,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring and Stabiliser Bar',
+        'RearSuspension' : '5-link with Coil Spring and Lateral Rod',
+        'FrontTyre' : '215/60 R17 Alloy',
+        'RearTyre' : '215/60 R17 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 5, 
+        'SeatCapacity' : 7,
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+

@@ -1,0 +1,174 @@
+
+// vios -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Vios',
+      'Variant' : '1.5G (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'Sedan',
+      'CarDescription' : '1.5G 2NR-FE',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 42,
+        'BootCapacity' : 310, //default
+        'CurbWeight' : 1145,
+        'Wheelbase' : 2243,
+        'Height' : 1845,
+        'Length' : 4435,
+        'Width' : 1695,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1460 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 107,
+        'PeakTorque' : 140,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut with Stabilizer',
+        'RearSuspension' : 'Torsion Beam with Stabilizer',
+        'FrontTyre' : '195/50 R16 Alloy',
+        'RearTyre' : '195/50 R16 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 4, 
+        'SeatCapacity' : 5,
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// vios -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Vios',
+      'Variant' : '1.5E (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'Sedan',
+      'CarDescription' : '1.5E 2NR-FE',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 42,
+        'BootCapacity' : 310, //default
+        'CurbWeight' : 1120,
+        'Wheelbase' : 2243,
+        'Height' : 1845,
+        'Length' : 4435,
+        'Width' : 1695,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1460 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 107,
+        'PeakTorque' : 140,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut with Stabilizer',
+        'RearSuspension' : 'Torsion Beam with Stabilizer',
+        'FrontTyre' : '185/60 R15 Alloy',
+        'RearTyre' : '185/60 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 4, 
+        'SeatCapacity' : 5,
+        'FrontRim' : 15, //default
+        'RearRim' : 15, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+// vios -v3
+{
+      'Layout' : '2WD',
+      'Model' : 'Vios',
+      'Variant' : '1.5E (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'Sedan',
+      'CarDescription' : '1.5E 2NR-FE',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 42,
+        'BootCapacity' : 310, //default
+        'CurbWeight' : 1110,
+        'Wheelbase' : 2243,
+        'Height' : 1845,
+        'Length' : 4435,
+        'Width' : 1695,
+        'RearTread' : 1445, //default
+        'FrontTread' : 1460 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1496,
+        'PeakPower' : 107,
+        'PeakTorque' : 140,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Solid Disc',
+        'FrontSuspension' : 'MacPherson Strut with Stabilizer',
+        'RearSuspension' : 'Torsion Beam with Stabilizer',
+        'FrontTyre' : '185/60 R15 Alloy',
+        'RearTyre' : '185/60 R15 Alloy',
+        'SteeringType' : 'Electric Power Steering',
+        'GroundClearance' : 220, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 6000,
+        'TorqueRPM' : 4200,
+        'Doors' : 4, 
+        'SeatCapacity' : 5,
+        'FrontRim' : 15, //default
+        'RearRim' : 15, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+

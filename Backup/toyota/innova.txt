@@ -1,0 +1,174 @@
+// innova -v1
+{
+      'Layout' : '2WD',
+      'Model' : 'Innova',
+      'Variant' : '2.0X (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'MPV',
+      'CarDescription' : '2.0X DOHC Dual VVT-i',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 55,
+        'BootCapacity' : 270, //default
+        'CurbWeight' : 1740,
+        'Wheelbase' : 2740,
+        'Height' : 1795,
+        'Length' : 4735,
+        'Width' : 1830,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1998,
+        'PeakPower' : 102,
+        'PeakTorque' : 183,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading / Trailing Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring',
+        'RearSuspension' : 'Torsion Beam with Coil Spring',
+        'FrontTyre' : '215/55 R17 Alloy',
+        'RearTyre' : '215/55 R17 Alloy',
+        'SteeringType' : 'Rack & Pinion Motion Electric Power Steering',
+        'GroundClearance' : 185, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5600,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 7, //8 for other 2
+        'FrontRim' : 17, //default
+        'RearRim' : 17, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// innova -v2
+{
+      'Layout' : '2WD',
+      'Model' : 'Innova',
+      'Variant' : '2.0G (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'MPV',
+      'CarDescription' : '2.0G DOHC Dual VVT-i',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 55,
+        'BootCapacity' : 270, //default
+        'CurbWeight' : 1720,
+        'Wheelbase' : 2740,
+        'Height' : 1795,
+        'Length' : 4735,
+        'Width' : 1830,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1998,
+        'PeakPower' : 102,
+        'PeakTorque' : 183,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading / Trailing Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring',
+        'RearSuspension' : 'Torsion Beam with Coil Spring',
+        'FrontTyre' : '205/65 R16 Alloy',
+        'RearTyre' : '205/65 R16 Alloy',
+        'SteeringType' : 'Rack & Pinion Motion Electric Power Steering',
+        'GroundClearance' : 185, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5600,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 8, //8 for other 2
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
+// innova -v3
+{
+      'Layout' : '2WD',
+      'Model' : 'Innova',
+      'Variant' : '2.0E (AT)',
+      'Year' : '2019',
+      'EngineDesc' : '4 Cylinders In-Line, 16 Valve DOHC with Dual VVT-i',
+      'BodyType' : 'MPV',
+      'CarDescription' : '2.0E DOHC Dual VVT-i',
+      //'Transmission' : 'Manual',  //only add if car is manual
+      'Dimensions' : {
+        'FeulCapacity' : 55,
+        'BootCapacity' : 270, //default
+        'CurbWeight' : 1715,
+        'Wheelbase' : 2740,
+        'Height' : 1795,
+        'Length' : 4735,
+        'Width' : 1830,
+        'RearTread' : 1490, //default
+        'FrontTread' : 1490 //default
+      },
+      'Engine' : {
+        'Aspiration' : 'Aspirated', //dont change
+        'FeulType' : 'ULP', //dont change
+        'EngineType' : 'Piston', //dont change
+        'Injection' : 'Multi Point Injection', //DEFAULT
+        'Bore' : 86.0, //default
+        'CompressionRatio' : 10.0, //default
+        'Cylinders' : 4,
+        'EngineCC' : 1998,
+        'PeakPower' : 102,
+        'PeakTorque' : 183,
+        'Stroke' : 86.0 ///default
+      },
+      'General' : {
+    
+        'FrontBreak' : 'Ventilated Disc',
+        'RearBreak' : 'Leading / Trailing Drum',
+        'FrontSuspension' : 'MacPherson Strut with Coil Spring',
+        'RearSuspension' : 'Torsion Beam with Coil Spring',
+        'FrontTyre' : '205/65 R16 Alloy',
+        'RearTyre' : '205/65 R16 Alloy',
+        'SteeringType' : 'Rack & Pinion Motion Electric Power Steering',
+        'GroundClearance' : 185, //default
+        'HorsePower' : 150, //default
+        'PowerRPM' : 5600,
+        'TorqueRPM' : 4000,
+        'Doors' : 5, 
+        'SeatCapacity' : 8, //8 for other 2
+        'FrontRim' : 16, //default
+        'RearRim' : 16, //default
+      }
+
+}
+
+// -----------------------------------------------------------------------------//
+
+
