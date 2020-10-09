@@ -1,6 +1,6 @@
 # Car Expert Mobile Application
 <p align = "center">
-![LOGO](https://github.com/mhdzidannn/Car-Expert/blob/master/android/app/src/main/res/mipmap-hdpi/login.png?raw=true)
+    <img src = https://github.com/mhdzidannn/Car-Expert/blob/master/android/app/src/main/res/mipmap-hdpi/login.png?raw=true>
 </p>
 
 # Team Members
