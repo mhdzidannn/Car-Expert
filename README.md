@@ -32,16 +32,14 @@
     -  Contact dealers via whatsapp or call
     -  Like advertisements and save to be viewed later (can also unlike)
     -  View news related to automobile extracted from [Autoblog](https://www.autoblog.com/)
-    -  Edit user's own profile
 
 - Dealer Functionality:
 
     -  View or delete own car advertisements
     -  Create car advertisements
     -  Receive message for liked car advertisements from users
-    -  Edit user's own profile
 
-- Similar functionality:
+- Similar functionality for both user and dealer:
 
     - Login
     - Register
