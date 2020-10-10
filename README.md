@@ -1,15 +1,16 @@
 # Car Expert Mobile Application
+
 <p align = "center">
     <img src = https://github.com/mhdzidannn/Car-Expert/blob/master/android/app/src/main/res/mipmap-hdpi/login.png?raw=true>
 </p>
 
-# Team Members
+## Team Members
 
 1. Afnan bin Fader (Leader)
 2. Mohamad Zaidan bin Mohamad Khalil
 
 
-# Project Description
+## Project Description
 
 -	It's like [carlist.my](https://www.carlist.my/) but the mobile app version
 
@@ -17,7 +18,7 @@
 
 -	Took the two of us from March 2020 until August 2020 to finish the project
 
-# App Overview
+## App Overview
 
 - This mobile app has 2 types of users:
 
@@ -40,8 +41,15 @@
     -  Receive message for liked car advertisements from users
     -  Edit user's own profile
 
+- Similar functionality:
 
-# The Project Timeline
+    - Login
+    - Register
+    - View own profile
+    - Edit own profile details
+
+
+## The Project Timeline
 >>
 ```
 ?/3 = Team Formed 
@@ -53,30 +61,30 @@
 5/8 = Project finished and delivered to client
 ```
 
-# The challenges faced in accomplishing this project
+## The challenges faced in accomplishing this project
 
 
 ### Problem 1:
 Difficulty on doing a meeting and discuss with teammate and client due to quarantine.
 
-Solution: Discord as a medium to collaborating and discussing the project.
+**Solution:** Discord as a medium to collaborating and discussing the project.
 
 
 ### Problem 2:
 Having hard time choosing app state management (Redux, Bloc, Provider)
 
-Solution: We spent a lot of time playing and testing around with the different state manager. We decided to choose Provider.
+**Solution:** We spent a lot of time playing and testing around with the different state manager. We decided to choose Provider.
 
 
 ### Problem 3:
 No inspiration for the UIUX design. 
 
-Solution: Hired a friend to do the UIUX for us.
+**Solution:** Hired a friend to do the UIUX for us.
 
 
 ### Problem 3:
 Did not follow the app mockup entirely.
 
-Explanation: I think it is because we are learning, exploring multitudes of widgets in Flutter.
+**Explanation:** I think it is because we are learning, exploring multitudes of widgets in Flutter.
 
 
