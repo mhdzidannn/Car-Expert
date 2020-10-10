@@ -20,7 +20,7 @@
 
 ## App Overview
 
-- This mobile app has 2 types of users:
+- This mobile app has 2 types of users, where both user types need to register to access the mobile app functions:
 
     -  Normal Users, those who buys the cars
     -  Dealers, those who sells cars
