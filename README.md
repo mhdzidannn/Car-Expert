@@ -80,7 +80,7 @@ No inspiration for the UIUX design.
 **Solution:** Hired a friend to do the UIUX for us.
 
 
-### Problem 3:
+### Problem 4:
 Did not follow the app mockup entirely.
 
 **Explanation:** I think it is because we are learning, exploring multitudes of widgets in Flutter.
